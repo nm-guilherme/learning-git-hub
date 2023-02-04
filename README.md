@@ -6,7 +6,7 @@
 -->
 
 # Introduction to GitHub
-
+## New changes
 _Get started using GitHub in less than an hour._
 
 <!-- 
